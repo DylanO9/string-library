@@ -1,4 +1,4 @@
-#include "../include/stringlib.h"
+#include "stringlib.h"
 #include <string.h>
 #include <stdio.h>
 #include <assert.h>
